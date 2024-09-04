@@ -514,6 +514,9 @@ void vigenereDecrypt(char *text, const char *key) {
     }
 }
 
+//MAIN FUNCTION TO PRINT AND GET INPUT
+
+
 int main() {
     const char *key = "SAVEETHA"; // Replace with your desired key
     char message[] = "SATHISH"; // Replace with your message
@@ -522,6 +525,7 @@ int main() {
     // Encrypt the message
     vigenereEncrypt(message, key);
     printf("Encrypted Message: %s\n", message);
+
 
     // Decrypt the message back to the original
     vigenereDecrypt(message, key);
