@@ -85,7 +85,9 @@ int main() {
 ![OUT](CAESAR_CIPHER.png)
 
 Input : sathish
+
 Encrypted Message : vdwklvk
+
 Decrypted Message: sathish 
 
 ## RESULT:
@@ -293,7 +295,9 @@ int main() {
 ![OUT](PLAYFAIR_CIPHER.png)
 
 Key text: saveetha
+
 Plain text: sathish
+
 Cipher text: avsfgafu
 
 ## RESULT:
@@ -427,8 +431,11 @@ int main() {
 ![OUT](HILL_CIPHER.png)
 
 Input message : sathish
+
 Padded message : SATHISHXX
+
 Encoded message : EWLHWPVZY
+
 Decoded message : SATHISHXX
 
 ## RESULT:
@@ -518,10 +525,14 @@ int main() {
 
 ```
 ## OUTPUT:
-![OUT](VIGENERE_CIPHER.PNG)
+![OUT](VIGENERE_CIPHER.png)
+
 Plain text:SATHISH
+
 Key text:SAVEETHA
+
 Encrypted Message: KAOLMLO
+
 Decrypted Message: SATHISH
 
 ## RESULT:
@@ -610,9 +621,12 @@ int main() {
 
 ```
 ## OUTPUT:
-![OUT](RAIL_FENCE.PNG)
-Enter a Secret Message:sathish
+![OUT](RAIL_FENCE.png)
+
+Enter a Secret Message: sathish
+
 Enter number of rails:3
+
 Encrypted message:siahsth
 ## RESULT:
 The program to encrypt Rail fence cipher is executed successfully.
