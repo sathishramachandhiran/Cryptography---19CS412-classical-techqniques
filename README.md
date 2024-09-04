@@ -291,6 +291,7 @@ int main() {
 
 ## OUTPUT:
 ![OUT](PLAYFAIR_CIPHER.png)
+
 Key text: saveetha
 Plain text: sathish
 Cipher text: avsfgafu
