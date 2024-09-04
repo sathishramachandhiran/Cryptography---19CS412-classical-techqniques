@@ -415,6 +415,10 @@ int main() {
         strcat(enc, encode(a, b, c));
     }
 
+
+
+//TO PRINT
+
     printf("Encoded message : %s\n", enc);
     
     for (int i = 0; i < strlen(enc); i += 3) {
@@ -430,6 +434,7 @@ int main() {
 
 ```
 ## OUTPUT:
+
 ![OUT](HILL_CIPHER.png)
 
 Input message : sathish
