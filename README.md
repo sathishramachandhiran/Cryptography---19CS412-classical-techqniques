@@ -520,10 +520,13 @@ int main() {
 ## OUTPUT:
 OUTPUT :
 
-Input Message : SecurityLaboratory
-Encrypted Message : NMIYEMKCNIQVVROWXC Decrypted Message : SECURITYLABORATORY
+Plain text:SATHISH
+Key text:SAVEETHA
+Encrypted Message: KAOLMLO
+Decrypted Message: SATHISH
+
 ## RESULT:
-The program is executed successfully
+The program to encrypt text using vigenere cipher is executed successfully
 
 -----------------------------------------------------------------------
 
