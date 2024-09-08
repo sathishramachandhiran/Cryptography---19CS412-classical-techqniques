@@ -337,7 +337,7 @@ int main() {
 ```
 
 ## OUTPUT:
-![OUT](PLAYFAIR_CIPHER.png)
+![OUT](PLAYFAIR.png)
 
 Key text: saveetha
 
